@@ -17,3 +17,7 @@ Exercises:
 ## Lesson 2: CSS Basics
 
 Building buttons based on class names
+
+## Lesson 3: Hovers, Transitions, Shadows
+
+Adding hovers, transitions, and shadows to the buttons
