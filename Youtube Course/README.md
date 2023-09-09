@@ -13,3 +13,7 @@ Exercises:
 1d. Create a paragraph below the previous paragraph and write something you did today.
 1e. Create a link to google.com
 1f. Make the link from 1e open in a new tab
+
+## Lesson 2: CSS Basics
+
+Building buttons based on class names
