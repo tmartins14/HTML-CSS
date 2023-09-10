@@ -21,3 +21,9 @@ Building buttons based on class names
 ## Lesson 3: Hovers, Transitions, Shadows
 
 Adding hovers, transitions, and shadows to the buttons
+
+## Lesson 4: Chome DevTools & CSS Box Model
+
+Using Chrome devtools to match exact colors and get box model
+
+Using margin and padding
