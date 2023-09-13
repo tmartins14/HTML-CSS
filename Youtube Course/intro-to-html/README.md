@@ -31,3 +31,11 @@ Overview of the overall HTML structure. Using !DOCTYPE, head, and body
 Linking a css file to an HTML file
 
 Importing fonts
+
+## Lesson 7: Images and Text Boxes
+
+Created the YouTube clone html page
+
+Downloading thumbnails
+
+Adding a search bar
