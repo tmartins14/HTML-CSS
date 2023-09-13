@@ -23,3 +23,11 @@ Using margin and padding
 ## Lesson 5: Text Styles
 
 font-family, font-size, text-decoration, span tag
+
+## Lesson 6: The HTML Structure
+
+Overview of the overall HTML structure. Using !DOCTYPE, head, and body
+
+Linking a css file to an HTML file
+
+Importing fonts
