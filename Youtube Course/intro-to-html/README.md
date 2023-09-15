@@ -40,3 +40,5 @@ Adding a search bar
 Block Element: takes up entire line
 Inline Block Element: only takes up as much space as needed
 Inline Element: Appear within a line of text
+
+## Lesson 9: The div Element
