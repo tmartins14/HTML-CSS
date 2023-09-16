@@ -42,3 +42,10 @@ Inline Block Element: only takes up as much space as needed
 Inline Element: Appear within a line of text
 
 ## Lesson 9: The div Element
+
+Divs are meant to be containers
+Styling Divs as a whole
+
+## Lesson 10: Nested Layout Technique
+
+Nested layouts are a combination of vertical and horizontal layouts
