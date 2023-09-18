@@ -49,3 +49,5 @@ Styling Divs as a whole
 ## Lesson 10: Nested Layout Technique
 
 Nested layouts are a combination of vertical and horizontal layouts
+
+## Lesson 11: CSS Grid
