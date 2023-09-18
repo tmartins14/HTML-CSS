@@ -51,3 +51,7 @@ Styling Divs as a whole
 Nested layouts are a combination of vertical and horizontal layouts
 
 ## Lesson 11: CSS Grid
+
+Using CSS Grid to manage a layout
+Using free space ("fr") to set container width
+Setting column and row gaps
