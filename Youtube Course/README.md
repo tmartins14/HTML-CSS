@@ -17,6 +17,7 @@ Adding hovers, transitions, and shadows to the buttons
 ## Lesson 4: Chome DevTools & CSS Box Model
 
 Using Chrome devtools to match exact colors and get box model
+
 Using margin and padding
 
 ## Lesson 5: Text Styles
@@ -26,24 +27,30 @@ font-family, font-size, text-decoration, span tag
 ## Lesson 6: The HTML Structure
 
 Overview of the overall HTML structure. Using !DOCTYPE, head, and body
+
 Linking a css file to an HTML file
 Importing fonts
 
 ## Lesson 7: Images and Text Boxes
 
 Created the YouTube clone html page
+
 Downloading thumbnails
+
 Adding a search bar
 
 ## Lesson 8: CSS Display Property
 
 Block Element: takes up entire line
+
 Inline Block Element: only takes up as much space as needed
+
 Inline Element: Appear within a line of text
 
 ## Lesson 9: The div Element
 
 Divs are meant to be containers
+
 Styling Divs as a whole
 
 ## Lesson 10: Nested Layout Technique
@@ -53,5 +60,15 @@ Nested layouts are a combination of vertical and horizontal layouts
 ## Lesson 11: CSS Grid
 
 Using CSS Grid to manage a layout
+
 Using free space ("fr") to set container width
+
 Setting column and row gaps
+
+## Lesson 12: Flexbox
+
+Difference between Flexbox and Grid
+
+Grid is more rigid
+
+Flexbox is more flexible (duh)
